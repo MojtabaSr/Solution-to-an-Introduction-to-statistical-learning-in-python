@@ -9,7 +9,7 @@ The book can be purchased or downloaded for free from the following website: htt
 ![alt text](https://images-na.ssl-images-amazon.com/images/I/41pP5+SAv-L._SY344_BO1,204,203,200_.jpg)
 
 
-## Direct link to chapters
+## Direct link to solutions
 
 - [Chapter 2 - Statistical Learning](https://github.com/MojtabaSr/Solution-to-an-Introduction-to-statistical-learning-in-python/blob/main/Statistical%20Learning-chapter%202.ipynb)
 - [Chapter 3 - Linear Regression](https://github.com/MojtabaSr/Solution-to-an-Introduction-to-statistical-learning-in-python/blob/main/Linear%20Regression-chapter%203.ipynb)
