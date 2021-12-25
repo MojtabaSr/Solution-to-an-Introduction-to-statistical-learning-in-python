@@ -13,3 +13,4 @@ The book can be purchased or downloaded for free from the following website: htt
 
 - [Chapter 2 - Statistical Learning](https://github.com/MojtabaSr/Solution-to-an-Introduction-to-statistical-learning-in-python/blob/main/Statistical%20Learning-chapter%202.ipynb)
 - [Chapter 3 - Linear Regression](https://github.com/MojtabaSr/Solution-to-an-Introduction-to-statistical-learning-in-python/blob/main/Linear%20Regression-chapter%203.ipynb)
+- [Chapter 4 - Logistic Regression](https://github.com/MojtabaSr/Solution-to-an-Introduction-to-statistical-learning-in-python/blob/main/Logistic%20Regression_Chapter%204.ipynb)
